@@ -14,18 +14,19 @@
 
 *1주차 과제* - Make a _simple_ `Hello World` program in the language for the class
 
-1. Hello world
-2. Week
-    1.Messages
-    2.Numbers
-    3.Print
+- [x] 1. Hello world
+- [ ] 2. Week
 
-*HTML
-*CSS
-*JS
-*Node
-*JSON
-*MD
+    - [ ] 1.Messages
+    - [ ] 2.Numbers
+    - [ ] 3.Print
+
+* HTML
+* CSS
+* JS
+* Node
+* JSON
+* MD
 
 ---
 
